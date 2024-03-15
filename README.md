@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mona-1414/proj-03/blob/main/project-03.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mona-1414/proj-03/blob/main/project-03%20(1).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
